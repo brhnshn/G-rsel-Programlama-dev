@@ -1,1 +1,1 @@
-# G-rsel-Programlama-dev
+# Gorsel Programlama Odev
